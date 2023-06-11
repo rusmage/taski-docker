@@ -1,4 +1,4 @@
-name: Main taski-docker workflow
+name: Main Taski workflow
 
 on:
   push:
